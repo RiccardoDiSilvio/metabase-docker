@@ -1,0 +1,5 @@
+/plugins
+*.db
+*.json
+*.jar
+metabase.jar
